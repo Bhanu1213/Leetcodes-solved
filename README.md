@@ -13,6 +13,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -39,5 +40,6 @@ These are the leetocodes problems i solved so far
 ## Array
 |  |
 | ------- |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
