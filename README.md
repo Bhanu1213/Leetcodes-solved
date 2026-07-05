@@ -68,4 +68,12 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
