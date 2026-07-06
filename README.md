@@ -19,6 +19,7 @@ These are the leetocodes problems i solved so far
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2544-alternating-digit-sum) |
@@ -35,6 +36,7 @@ These are the leetocodes problems i solved so far
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Enumeration
 |  |
