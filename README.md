@@ -24,6 +24,7 @@ These are the leetocodes problems i solved so far
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2544-alternating-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
