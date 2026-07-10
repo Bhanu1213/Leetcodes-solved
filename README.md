@@ -41,6 +41,7 @@ These are the leetocodes problems i solved so far
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Enumeration
@@ -53,6 +54,7 @@ These are the leetocodes problems i solved so far
 | [0198-house-robber](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
+| [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3925-concatenate-array-with-reverse) |
@@ -60,6 +62,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +71,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
