@@ -26,6 +26,7 @@ These are the leetocodes problems i solved so far
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2544-alternating-digit-sum) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2769-find-the-maximum-achievable-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
