@@ -31,6 +31,7 @@ These are the leetocodes problems i solved so far
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2769-find-the-maximum-achievable-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ These are the leetocodes problems i solved so far
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
+| [3895-count-digit-appearances](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
