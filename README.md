@@ -15,6 +15,7 @@ These are the leetocodes problems i solved so far
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ These are the leetocodes problems i solved so far
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
