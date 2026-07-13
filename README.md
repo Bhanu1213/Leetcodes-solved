@@ -60,6 +60,7 @@ These are the leetocodes problems i solved so far
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1291-sequential-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Array
 |  |
