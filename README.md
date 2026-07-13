@@ -20,6 +20,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -53,6 +54,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Enumeration
@@ -109,4 +111,8 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
