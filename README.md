@@ -32,6 +32,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0172-factorial-trailing-zeroes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -118,6 +119,7 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Counting
 |  |
 | ------- |
