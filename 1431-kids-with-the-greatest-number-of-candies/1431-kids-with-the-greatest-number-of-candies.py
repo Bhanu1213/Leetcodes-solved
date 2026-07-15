@@ -3,5 +3,5 @@ class Solution:
         res=[]
         max1=max(candies)
         for i in candies:
-            res.append(i+extraCandies>=max1)
+            res.append((i+extraCandies)>=max1)
         return res
