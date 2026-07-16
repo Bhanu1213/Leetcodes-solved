@@ -32,6 +32,7 @@ These are the leetocodes problems i solved so far
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -135,4 +136,8 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
