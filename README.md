@@ -19,6 +19,7 @@ These are the leetocodes problems i solved so far
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0520-detect-capital) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -93,6 +94,7 @@ These are the leetocodes problems i solved so far
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
