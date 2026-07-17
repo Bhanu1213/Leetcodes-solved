@@ -73,6 +73,7 @@ These are the leetocodes problems i solved so far
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -124,6 +125,7 @@ These are the leetocodes problems i solved so far
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
