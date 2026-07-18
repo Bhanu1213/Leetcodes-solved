@@ -80,6 +80,7 @@ These are the leetocodes problems i solved so far
 | [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
@@ -97,6 +98,7 @@ These are the leetocodes problems i solved so far
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
