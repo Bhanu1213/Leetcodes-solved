@@ -59,6 +59,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
@@ -93,6 +94,7 @@ These are the leetocodes problems i solved so far
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -136,6 +138,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
