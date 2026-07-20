@@ -27,6 +27,7 @@ These are the leetocodes problems i solved so far
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
@@ -94,6 +95,7 @@ These are the leetocodes problems i solved so far
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
