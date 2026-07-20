@@ -34,6 +34,7 @@ These are the leetocodes problems i solved so far
 | [3110-score-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +115,7 @@ These are the leetocodes problems i solved so far
 | [0541-reverse-string-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
