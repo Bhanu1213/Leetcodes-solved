@@ -155,6 +155,7 @@ These are the leetocodes problems i solved so far
 | [0260-single-number-iii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1009-complement-of-base-10-integer) |
 ## Counting
 |  |
 | ------- |
