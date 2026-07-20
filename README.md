@@ -22,6 +22,7 @@ These are the leetocodes problems i solved so far
 | [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0541-reverse-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -67,6 +68,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0392-is-subsequence) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
 |  |
@@ -112,6 +114,7 @@ These are the leetocodes problems i solved so far
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0541-reverse-string-ii) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
