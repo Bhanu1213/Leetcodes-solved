@@ -8,6 +8,7 @@ These are the leetocodes problems i solved so far
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
@@ -19,6 +20,7 @@ These are the leetocodes problems i solved so far
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
