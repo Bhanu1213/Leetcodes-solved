@@ -45,6 +45,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
@@ -74,6 +75,7 @@ These are the leetocodes problems i solved so far
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0392-is-subsequence) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -188,4 +190,8 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0459-repeated-substring-pattern) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
