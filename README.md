@@ -18,6 +18,7 @@ These are the leetocodes problems i solved so far
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ These are the leetocodes problems i solved so far
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
