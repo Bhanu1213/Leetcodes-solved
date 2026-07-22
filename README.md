@@ -49,6 +49,7 @@ These are the leetocodes problems i solved so far
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
