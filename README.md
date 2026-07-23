@@ -31,6 +31,7 @@ These are the leetocodes problems i solved so far
 | [0459-repeated-substring-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0541-reverse-string-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2000-reverse-prefix-of-word) |
@@ -159,6 +160,7 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
