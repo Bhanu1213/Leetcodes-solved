@@ -3,12 +3,7 @@ class Solution:
         seen=set()
         while n!=1 and n not in seen:
             seen.add(n)
-            sum1=0
-            while n>0:
-                a=n%10
-                sum1+=a**2
-                n//=10
-            n=sum1
+            n=sum(int(i)**2 for i in str(n))
         return n==1
         
 
