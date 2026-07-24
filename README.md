@@ -8,6 +8,7 @@ These are the leetocodes problems i solved so far
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -51,6 +52,7 @@ These are the leetocodes problems i solved so far
 | [0070-climbing-stairs](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0509-fibonacci-number) |
@@ -130,6 +132,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0345-reverse-vowels-of-a-string) |
