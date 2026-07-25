@@ -36,6 +36,7 @@ These are the leetocodes problems i solved so far
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
@@ -75,6 +76,7 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
@@ -119,6 +121,7 @@ These are the leetocodes problems i solved so far
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-decode-xored-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
