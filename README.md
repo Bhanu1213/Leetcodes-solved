@@ -15,6 +15,7 @@ These are the leetocodes problems i solved so far
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3668-restore-finishing-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3668-restore-finishing-order) |
@@ -123,6 +124,7 @@ These are the leetocodes problems i solved so far
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -171,6 +173,7 @@ These are the leetocodes problems i solved so far
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3536-maximum-product-of-two-digits) |
@@ -233,4 +236,8 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
