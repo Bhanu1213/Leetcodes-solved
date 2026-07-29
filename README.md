@@ -18,6 +18,7 @@ These are the leetocodes problems i solved so far
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -45,6 +46,7 @@ These are the leetocodes problems i solved so far
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3794-reverse-string-prefix) |
 ## Math
@@ -217,6 +219,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
