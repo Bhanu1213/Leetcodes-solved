@@ -127,6 +127,7 @@ These are the leetocodes problems i solved so far
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
+| [0766-toeplitz-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
@@ -251,4 +252,8 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
