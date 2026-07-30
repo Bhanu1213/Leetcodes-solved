@@ -117,6 +117,7 @@ These are the leetocodes problems i solved so far
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0198-house-robber) |
@@ -153,6 +154,7 @@ These are the leetocodes problems i solved so far
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0283-move-zeroes) |
@@ -176,6 +178,7 @@ These are the leetocodes problems i solved so far
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
