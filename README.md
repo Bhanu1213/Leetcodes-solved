@@ -60,6 +60,7 @@ These are the leetocodes problems i solved so far
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -263,4 +264,12 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0766-toeplitz-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
