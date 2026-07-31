@@ -118,6 +118,7 @@ These are the leetocodes problems i solved so far
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
@@ -174,6 +175,7 @@ These are the leetocodes problems i solved so far
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0633-sum-of-square-numbers) |
