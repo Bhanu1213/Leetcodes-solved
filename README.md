@@ -149,6 +149,7 @@ These are the leetocodes problems i solved so far
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
@@ -182,6 +183,7 @@ These are the leetocodes problems i solved so far
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
