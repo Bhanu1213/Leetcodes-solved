@@ -61,6 +61,7 @@ These are the leetocodes problems i solved so far
 | [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -227,6 +228,7 @@ These are the leetocodes problems i solved so far
 | [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0260-single-number-iii) |
+| [0371-sum-of-two-integers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
