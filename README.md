@@ -38,6 +38,7 @@ These are the leetocodes problems i solved so far
 | [0796-rotate-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1528-shuffle-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -143,6 +144,7 @@ These are the leetocodes problems i solved so far
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-shuffle-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
