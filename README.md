@@ -36,6 +36,7 @@ These are the leetocodes problems i solved so far
 | [0459-repeated-substring-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0541-reverse-string-ii) |
+| [0709-to-lower-case](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
