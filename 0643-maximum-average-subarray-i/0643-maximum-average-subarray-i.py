@@ -5,7 +5,8 @@ class Solution:
         ma=cur
         for i in range(k,len(nums)):
             cur+=nums[i]-nums[i-k]
-            ma=max(cur,ma)
+            if cur>ma:
+                ma=cur
         return ma/k
 
 
