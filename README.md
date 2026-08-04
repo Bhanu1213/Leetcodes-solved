@@ -138,6 +138,7 @@ These are the leetocodes problems i solved so far
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
@@ -294,4 +295,8 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
