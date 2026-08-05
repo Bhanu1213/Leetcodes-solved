@@ -154,6 +154,7 @@ These are the leetocodes problems i solved so far
 | [1720-decode-xored-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
