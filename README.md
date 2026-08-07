@@ -28,6 +28,7 @@ These are the leetocodes problems i solved so far
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -177,6 +178,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0283-move-zeroes) |
