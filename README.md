@@ -17,6 +17,7 @@ These are the leetocodes problems i solved so far
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -45,6 +46,7 @@ These are the leetocodes problems i solved so far
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2000-reverse-prefix-of-word) |
@@ -156,6 +158,7 @@ These are the leetocodes problems i solved so far
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1528-shuffle-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1528-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -250,12 +253,14 @@ These are the leetocodes problems i solved so far
 | [0693-binary-number-with-alternating-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1009-complement-of-base-10-integer) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1720-decode-xored-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
