@@ -107,6 +107,7 @@ These are the leetocodes problems i solved so far
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2562-find-the-array-concatenation-value) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -174,6 +175,7 @@ These are the leetocodes problems i solved so far
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2562-find-the-array-concatenation-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3668-restore-finishing-order) |
@@ -199,6 +201,7 @@ These are the leetocodes problems i solved so far
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [2000-reverse-prefix-of-word](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2562-find-the-array-concatenation-value](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2562-find-the-array-concatenation-value) |
 | [3794-reverse-string-prefix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
