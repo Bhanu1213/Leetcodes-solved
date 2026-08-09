@@ -153,6 +153,7 @@ These are the leetocodes problems i solved so far
 | [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -218,6 +219,7 @@ These are the leetocodes problems i solved so far
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -245,6 +247,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -291,10 +294,12 @@ These are the leetocodes problems i solved so far
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -317,4 +322,16 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
