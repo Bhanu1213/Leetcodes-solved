@@ -81,6 +81,7 @@ These are the leetocodes problems i solved so far
 | [1137-n-th-tribonacci-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1903-largest-odd-number-in-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2195-append-k-integers-with-minimal-sum) |
