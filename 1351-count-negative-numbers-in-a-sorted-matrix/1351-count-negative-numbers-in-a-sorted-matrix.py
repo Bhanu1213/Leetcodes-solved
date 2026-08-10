@@ -3,5 +3,5 @@ class Solution:
         count=0
         for li in grid:
             count+=len([i for i in li if i<0])
-        return count 
+        return count
         
