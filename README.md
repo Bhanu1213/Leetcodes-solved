@@ -157,6 +157,7 @@ These are the leetocodes problems i solved so far
 | [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1389-create-target-array-in-the-given-order) |
@@ -212,6 +213,7 @@ These are the leetocodes problems i solved so far
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0633-sum-of-square-numbers) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -226,6 +228,7 @@ These are the leetocodes problems i solved so far
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -300,6 +303,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -310,6 +314,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0766-toeplitz-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Brainteaser
 |  |
