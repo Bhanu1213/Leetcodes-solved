@@ -259,12 +259,14 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
