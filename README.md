@@ -30,6 +30,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -70,6 +71,7 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0050-powx-n](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0202-happy-number) |
