@@ -71,6 +71,7 @@ These are the leetocodes problems i solved so far
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0168-excel-sheet-column-title) |
@@ -270,6 +271,7 @@ These are the leetocodes problems i solved so far
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0191-number-of-1-bits) |
