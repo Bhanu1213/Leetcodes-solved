@@ -15,6 +15,7 @@ These are the leetocodes problems i solved so far
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -161,6 +162,7 @@ These are the leetocodes problems i solved so far
 | [0496-next-greater-element-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0766-toeplitz-matrix) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
@@ -236,6 +238,7 @@ These are the leetocodes problems i solved so far
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1331-rank-transform-of-an-array) |
@@ -278,6 +281,7 @@ These are the leetocodes problems i solved so far
 | [0260-single-number-iii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1009-complement-of-base-10-integer) |
