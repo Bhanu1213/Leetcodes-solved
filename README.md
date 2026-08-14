@@ -225,6 +225,7 @@ These are the leetocodes problems i solved so far
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0633-sum-of-square-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -364,4 +365,8 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0912-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
