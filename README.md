@@ -66,6 +66,7 @@ These are the leetocodes problems i solved so far
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3280-convert-date-to-binary](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -100,6 +101,7 @@ These are the leetocodes problems i solved so far
 | [2469-convert-the-temperature](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2769-find-the-maximum-achievable-number) |
+| [3280-convert-date-to-binary](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3658-gcd-of-odd-and-even-sums) |
