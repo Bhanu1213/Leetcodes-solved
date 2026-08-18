@@ -101,6 +101,7 @@ These are the leetocodes problems i solved so far
 | [2469-convert-the-temperature](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3536-maximum-product-of-two-digits) |
