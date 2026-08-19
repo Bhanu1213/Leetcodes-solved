@@ -124,6 +124,7 @@ These are the leetocodes problems i solved so far
 | [2562-find-the-array-concatenation-value](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2562-find-the-array-concatenation-value) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@ These are the leetocodes problems i solved so far
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3925-concatenate-array-with-reverse) |
