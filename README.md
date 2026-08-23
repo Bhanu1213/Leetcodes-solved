@@ -104,6 +104,7 @@ These are the leetocodes problems i solved so far
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -202,6 +203,7 @@ These are the leetocodes problems i solved so far
 | [2798-number-of-employees-who-met-the-target](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3668-restore-finishing-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3701-compute-alternating-sum) |
@@ -380,4 +382,8 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
