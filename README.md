@@ -61,6 +61,7 @@ These are the leetocodes problems i solved so far
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2390-removing-stars-from-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
@@ -194,6 +195,7 @@ These are the leetocodes problems i solved so far
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -326,6 +328,7 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Memoization
 |  |
 | ------- |
