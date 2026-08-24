@@ -94,6 +94,7 @@ These are the leetocodes problems i solved so far
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1323-maximum-69-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1903-largest-odd-number-in-string) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -138,6 +139,7 @@ These are the leetocodes problems i solved so far
 | [0392-is-subsequence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1137-n-th-tribonacci-number) |
+| [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
 |  |
@@ -190,6 +192,7 @@ These are the leetocodes problems i solved so far
 | [1684-count-the-number-of-consistent-strings](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
+| [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -360,6 +363,7 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/0292-nim-game) |
+| [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -388,5 +392,14 @@ These are the leetocodes problems i solved so far
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
