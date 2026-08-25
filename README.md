@@ -156,6 +156,7 @@ These are the leetocodes problems i solved so far
 | ------- |
 | [1291-sequential-digits](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1291-sequential-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -206,6 +207,7 @@ These are the leetocodes problems i solved so far
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2562-find-the-array-concatenation-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
