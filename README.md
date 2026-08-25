@@ -25,6 +25,7 @@ These are the leetocodes problems i solved so far
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3668-restore-finishing-order) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3945-digit-frequency-score) |
@@ -212,6 +213,7 @@ These are the leetocodes problems i solved so far
 | [3668-restore-finishing-order](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/3925-concatenate-array-with-reverse) |
