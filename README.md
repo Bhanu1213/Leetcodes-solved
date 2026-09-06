@@ -54,6 +54,7 @@ These are the leetocodes problems i solved so far
 | [1816-truncate-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1903-largest-odd-number-in-string) |
@@ -273,6 +274,7 @@ These are the leetocodes problems i solved so far
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/2733-neither-minimum-nor-maximum) |
@@ -411,4 +413,8 @@ These are the leetocodes problems i solved so far
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1872-stone-game-viii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Bhanu1213/Leetcodes-solved/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
